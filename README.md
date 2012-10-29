@@ -11,7 +11,7 @@ Requirements
 
 Usage
 -----
- - `cd project0`
+ - `cd boards/ek-lm4f120xl/project0`
  - `make`
  - `lm4flash gcc/project0.bin`
  - Great success!
