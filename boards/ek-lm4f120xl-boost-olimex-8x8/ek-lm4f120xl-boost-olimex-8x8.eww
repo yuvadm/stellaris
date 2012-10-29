@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<workspace>
+  <project>
+    <path>$WS_DIR$\..\..\driverlib\driverlib-cm4f.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\..\..\usblib\usblib-cm4f.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\faces\faces.ewp</path>
+  </project>
+  <batchBuild>
+    <batchDefinition>
+      <name>All Examples</name>
+      <member>
+        <project>driverlib-cm4f</project>
+        <configuration>Debug</configuration>
+      </member>
+      <member>
+        <project>usblib-cm4f</project>
+        <configuration>Debug</configuration>
+      </member>
+      <member>
+        <project>faces</project>
+        <configuration>Debug</configuration>
+      </member>
+    </batchDefinition>
+  </batchBuild>
+</workspace>
