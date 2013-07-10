@@ -12,7 +12,10 @@ Tested on Mac OS X 10.6.8, should work on most Macs and Linuxes.
 
 
 ## Usage
- - `cd boards/ek-lm4f120xl/project0`
- - `make`
- - `lm4flash gcc/project0.bin`
- - Great success!
+
+```bash
+$ cd boards/ek-lm4f120xl/project0
+$ make
+$ lm4flash gcc/project0.bin
+# Great success!
+```
