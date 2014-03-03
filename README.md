@@ -1,8 +1,8 @@
 # Stellaris
 
-A ready-made repository for writing, compiling and flashing code for the TI Stellaris.
+A complete repository for writing, compiling and flashing code for the TI Stellaris, along with some sample projects. Based on a completely open-source toolchain, without the need to rely on cumbersome development environments.
 
-Tested on Mac OS X 10.6.8, should work on most Macs and Linuxes.
+Tested on OS X and Linux. Should work on most GNU/Linux/POSIX/*nix environments.
 
 ## Requirements
 
